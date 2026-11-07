@@ -10,8 +10,8 @@
 
 | unitypackage | 実装解説した Qiita 記事 |
 |:-|:-|
-| AvatarChair/AvatarChair_MA | 【簡単】アバター椅子の作り方 |
-| AvatarChair/AvatarChair_Animation | 【発展】アバター椅子で学ぶ Animation |
+| AvatarChair/AvatarChair_MA | 【簡単】アバター Sit 判定の作り方 |
+| AvatarChair/AvatarChair_Animation | 【発展】アバター Sit 判定で学ぶ Animation |
 | BattouGun | 作って理解する抜刀 (銃) ギミック |
 | HeartBeat | 作って理解する心音ギミック |
 |  |  |
